@@ -103,12 +103,15 @@ Based on the analysis and insights from the Walmart Sales & Economic Indicators 
 **1.Store Performance**
 * **Replicate Best Practices:** Examine the operational tactics of stores that are functioning well (eg...Store 41) and use them in underperforming areas.
 * **Targeted Support:** To assist underperforming locations in bridging the performance gap, offer customized promotions, inventory changes, or staffing enhancements.
+
 **2. Holiday Strategy**
 * **Enhance Holiday Promotions:** Walmart should increase holiday-specific marketing, package discounts, and seasonal campaigns since holidays account for 7.5% of sales.
 * **Leverage on Non-holiday Strength:** Continue to concentrate on non-holiday weeks, which generate 92.5% of sales, guaranteeing steady product availability and regular low prices.
+
 **3. Economic Sensitivity**
 * **Monitor Fuel & CPI Trends:** Since sales show sensitivity to fuel prices and CPI, real-time economic indicators into demand forecasting should be integrated. 
 * **Customer Price Sensitivity:** Introduce pricing strategies (e.g., discounts on essentials) during periods of high CPI or rising fuel costs to retain consumer spending.
+
 **4. Growth & Innovation**
 * **Boost Growth Rate:** with sales growth at only 0.42%, expanding e-commerce and using digital promotions in order to boost sales growth should be considered. 
 * **Data-Driven Planning:** Keep using analysis reports to examine supply chain efficiency, predict demand, and spot new trends.
